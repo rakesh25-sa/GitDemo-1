@@ -1,0 +1,1 @@
+This is a demo to show how git functions work to push and pull into GitHub repository
